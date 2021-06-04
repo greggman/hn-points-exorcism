@@ -2,6 +2,8 @@
 
 A browser extension to remove the evil points from Hacker News
 
+[You can install it here on the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-points-exorcism/dpijcanaophgcblkpililldhmgomkjlo/related)
+
 ---
 
 My personal opinion is that visible points are a net negative on Hacker News.
