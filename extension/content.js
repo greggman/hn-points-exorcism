@@ -1,7 +1,7 @@
 {
   const elem = document.querySelector('#me');
   if (elem) {
-    document.querySelector('#me').nextSibling.textContent = " ";
+    document.querySelector('#karma').textContent = "❤️";
   }
 }
 
