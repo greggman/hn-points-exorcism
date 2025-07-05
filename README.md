@@ -2,7 +2,7 @@
 
 A browser extension to remove the evil points from Hacker News
 
-[You can install it here on the Chrome Web Store](https://chrome.google.com/webstore/detail/hn-points-exorcism/dpijcanaophgcblkpililldhmgomkjlo/related)
+[You can install it here on the Chrome Web Store](https://chromewebstore.google.com/detail/hn-points-exorcism/jmbgcemganmdhpgdonpfcfodnlbmdikb)
 
 ---
 
