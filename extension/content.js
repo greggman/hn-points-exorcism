@@ -18,3 +18,15 @@
     });
   }
 }
+
+{
+  const style = document.createElement('style');
+  style.textContent = `
+    @media (prefers-color-scheme: dark) {
+      html {
+        filter: invert(1);
+      }
+    }
+  `;
+  document.head.appendChild(style);
+}
