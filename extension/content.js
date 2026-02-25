@@ -23,7 +23,14 @@
   const style = document.createElement('style');
   style.textContent = `
     @media (prefers-color-scheme: dark) {
+      :root {
+        color-scheme: dark;
+      }
       html {
+        filter: invert(1);
+        background-color: white;
+      }
+      textarea, input {
         filter: invert(1);
       }
     }
